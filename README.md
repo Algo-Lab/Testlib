@@ -13,7 +13,7 @@ https://github.com/MikeMirzayanov/testlib/
 ### Problem development management system Polygon completely supports testlib.
 https://polygon.codeforces.com/
 
-## == How to use? ==
+## How to use? 
 ### Easest way is to read c++ sources in the checkers/, validators/, generators/ and interactors/ folders.
 ### Also some classes and methods in testlib have documentation.
 
